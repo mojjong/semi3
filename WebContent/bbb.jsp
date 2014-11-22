@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Insert title here</title>
+<title>타이틀 수정</title>
 </head>
 <body>
-
+    bbb.jsp
 </body>
 </html>
